@@ -12181,7 +12181,7 @@ local allowed_hwids = {
     "8338B668-D021-4B5D-90E1-6D1D9119EBF", -- Salad
     "7816D3A9-7569-4804-B902-BD9C0ECB3B9B", --Ex
     "E0AB0D17-1F9D-5777-989F-3E4B2BEF206B", --Test
-    "", --
+    "4495F1A9-3D12-4296-A951-E66084D28A23", --severrity
     "", --
     "", --
 }
